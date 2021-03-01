@@ -10,7 +10,6 @@
 
  You can find me on  [![LinkedIn][3.2]][3]
  
- ## 🔧 Technologies & Tools
 
   
  ## &#x1f4c8; GitHub Stats
@@ -43,5 +42,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -  <em >Being highly passionate about Machine learning, Deep Learning and Computer Vision related fields, I am always eager to learn more.</em> 
+ ## 🔧 Technologies & Tools
 
 -->

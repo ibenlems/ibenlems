@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 ! I am Ismail Benlemsieh</h1>
+<h1 align="center">Hi there <img src="https://github.com/ibenlems/ibenlems/blob/main/wave.gif" width="30px"> ! I am Ismail Benlemsieh</h1>
 <p align="center">
   A Computer Science Engineering Student, with a major in Big Data, Data Science and High Performance Computing 
 </p>

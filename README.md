@@ -5,8 +5,7 @@
 
 
 
-[![HitCount](http://hits.dwyl.com/ibenlems/ibenlems.svg)](http://hits.dwyl.com/ibenlems/ibenlems) 
-
+![](https://komarev.com/ghpvc/?username=ibenlems)
 
  You can find me on  [![LinkedIn][3.2]][3]
  

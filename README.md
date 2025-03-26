@@ -1,4 +1,4 @@
-```markdown
+
 <!--
 <h1 align="center">Hi there <img src="https://github.com/ibenlems/ibenlems/blob/main/wave.gif" width="30px"> ! I am Ismail Benlemsieh</h1>
 
@@ -51,5 +51,5 @@ You can find me on  [![LinkedIn][3.2]][3]
 - ⚡ Fun fact: ...
 - <em>Being highly passionate about Machine learning, Deep Learning and Computer Vision related fields, I am always eager to learn more.</em>
 --> 
-```
+
 
